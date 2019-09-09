@@ -21,7 +21,7 @@ public class Application {
                 String byseat =  resultSet.getString("seat_no");
                 String byfare =  resultSet.getString("fare_conditions");
                 String byIndex =  resultSet.getString("range");
-                System.out.print("\t" +byCode +"\t\t\t");
+                System.out.print("\t" +byCode +"\t\t");
                 System.out.print(byName +"\t\t\t");
                 System.out.print(byseat +"\t\t\f");
                 System.out.print(byfare +"\t\t\f");
