@@ -1,0 +1,43 @@
+aircraft_code		 model		 seat_no	 fare_conditions	 range	
+|	773	    |	Boeing 777-300	 |	29F    |	Economy	|	11100|
+|	555 	|	Boeing 773-300	 |	20F    |	Economy	|	11100|
+|	773	    |	Boeing 777-300	 |	5A	    |	Business	|	11100|
+|	773	    |	Boeing 777-300	 |	9B	    |	Business	|	11100|
+|	773	    |	Boeing 777-300	 |	14A    |	Economy	|	11100|
+|	773	    |	Boeing 777-300	 |	17B    |	Economy	|	11100|
+|	773	    |	Boeing 777-300	 |	13F    |	Economy	|	11100|
+|	555	    |	Boeing 773-300	 |	1A	    |	Business	|	11100|
+|	555 	|	Boeing 773-300	 |	1B	    |	Business	|	11100|
+|	555	    |	Boeing 773-300	 |	10A    |	Economy	|	11100|
+|	555	    |	Boeing 773-300	 |	10B    |	Economy	|	11100|
+|	555	    |	Boeing 773-300	 |	10F    |	Economy	|	11100|
+|	321	    |	Airbus A321-200 |	9F	    |	Economy	|	5600 |
+|	321	    |	Airbus A321-200 |	19B    |	Economy	|	5600 |
+|	321	    |	Airbus A321-200 |	3A	    |	Business	|	5600 |
+|	321	    |	Airbus A321-200 |	6A	    |	Economy	|	5600 |
+|	321	    |	Airbus A321-200 |	1B	    |	Business	|	5600 |
+|	321	    |	Airbus A321-200 |	7F	    |	Economy	|	5600 |
+|	733	    |	Boeing 737-300	 |	25B    |	Economy	|	4200 |
+|	733	    |	Boeing 737-300	 |	4A	    |	Business	|	4200 |
+|	733 	|	Boeing 737-300	 |	11B    |	Business	|	4200 |
+|	733 	|	Boeing 737-300	 |	17A    |	Economy	|	4200 |
+|	733	    |	Boeing 737-300	 |	23F    |	Economy	|	4200 |
+|	733 	|	Boeing 737-300	 |	21F    |	Economy	|	4200 |
+|	SU9 	|	Sukhoi SrJt-100 |    1B	|	Business	|	3000 |
+|	SU9	    |	Sukhoi SrJt-100 |    10A   |	Economy	|	3000 |
+|	SU9	    |	Sukhoi SrJet-100|   10B    |	Economy	|	3000 |
+|	SU9	    |	Sukhoi SrJet-100|   10F    |	Economy	|	3000 |
+|	SU9	    |	Sukhoi SrJet-100|   20F    |	Economy	|	3000 |
+|	SU9	    |	Sukhoi SrJet-100|   1A	    |	Business	|	3000 |
+|	CR2	    |	Bombardier 200	 |   7A	|	Business	|	2700 |
+|	CR2	    |	Bombardier 200	 |	21B	|	Business	|   2700 |
+|	CR2	    |	Bombardier 200	 |	12A	|	Economy	|	2700 |
+|	CR2	    |	Bombardier 200	 |	9B	    |	Economy	|	2700 |
+|	CR2	    |	Bombardier 200	 |	3F	    |	Economy	|	2700 |
+|	CR2	    |	Bombardier 200	 |	1F	    |	Economy	|	2700 |
+|	CN1	    |	Cessna 208 Can  |	4F	    |	Economy	|	1200 |
+|	CN1	    |	Cessna 208 Can	 |	3F	    |	Economy	|	1200 |
+|	CN1	    |	Cessna 208 Can	 |	6B	    |	Economy	|	1200 |
+|	CN1	    |	Cessna 208 Can	 |	5A	    |	Economy	|	1200 |
+|	CN1	    |	Cessna 208 Can	 |	11B    |	Business	|	1200 |
+|	CN1	    |	Cessna 208 Can	 |	8A	    |	Business	|	1200 |
